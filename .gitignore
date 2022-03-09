@@ -1,0 +1,6 @@
+node_modules
+build
+src/components/contract_address.js
+.vscode/
+yarn.lock
+src/contracts/private.js
